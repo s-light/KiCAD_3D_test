@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name WAGO_233)(type KiCad)(uri /home/stefan/_LocalData/projects/_KiCAD/myPartLib/Sockets_WAGO_233.pretty)(options "")(descr "WAGO 233 series"))
+  (lib (name in_Header_Tray_Plug)(type KiCad)(uri /home/stefan/_LocalData/projects/_KiCAD/myPartLib/Pin_Header_Tray_Plug.pretty)(options "")(descr "Nice Headers"))
+)
